@@ -1,0 +1,32 @@
+- class_name: 友链
+  class_desc: 站在大佬的肩膀上
+  link_list:
+    - name: MYW
+      link: https://crazywong.com/
+      avatar: https://blog.crazywong.com/img/avatar.png
+      descr: CrzayWong
+    - name: Hexo
+      link: https://hexo.io/zh-tw/
+      avatar: https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg
+      descr: 快速、简单且强大的网志框架
+    - name: Butterfly
+      link: https://github.com/jerryc127/hexo-theme-butterfly
+      avatar: https://fastly.jsdelivr.net/gh/jerryc127/CDN/img/more-butterfly-demo-avatar.png
+      descr: A Hexo Theme：Butterfly
+
+- class_name: 学习
+  class_desc: 你就学吧😶
+  link_list:
+    - name: Github
+      link: https://www.github.com/
+      avatar: https://fastly.jsdelivr.net/gh/jerryc127/CDN/img/butterfly-github-avatar.png
+      descr: 程序员的社交圈
+    - name: Gitee
+      link: https://www.gitee.com/
+      avatar: https://e-assets.gitee.com/gitee-community-web/_next/static/media/logo-white.a5b0e29c.svg
+      descr: 中国人自己的Github🤣
+    - name: Bilibili
+      link: https://www.bilibili.com/
+      avatar: https://fastly.jsdelivr.net/gh/jerryc127/CDN/img/butterfly-github-avatar.png
+      descr: YYDS
+

@@ -210,7 +210,13 @@ footer:
   owner:
     enable: true
     since: 2024
-  custom_text: Welcome to my <a href="https://blog.qiing.wang/">blog</a>
+  custom_text: <p>
+               <a style="margin-inline:5px"target="_blank" href="https://hexo.io/"><img alt="Static Badge" src="https://img.shields.io/badge/Frame-Hexo-blue?logo=hexo&logoSize=auto&link=https%3A%2F%2Fhexo.io%2Fzh-cn%2F">
+               <a style="margin-inline:5px"target="_blank" href="https://butterfly.js.org/"><img alt="Static Badge" src="https://img.shields.io/badge/Theme-Butterfly-0B996E?logo=brevo&logoSize=auto&link=https%3A%2F%2Fhexo.io%2Fzh-cn%2F">
+               <a style="margin-inline:5px"target="_blank" href="https://github.com/Rqml/rqml.github.io/"><img alt="Static Badge" src="https://img.shields.io/badge/Source-Github-EA4AAA?logo=Github&logoSize=auto">
+               <a style="margin-inline:5px"target="_blank" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Static Badge" src="https://img.shields.io/badge/Copyright-By--NC--SA--4.0-E61845?logo=coil&logoSize=auto&link=https%3A%2F%2Fcreativecommons.org%2Flicenses%2Fby-nc-sa%2F4.0%2F">
+               </p>
+               <p><a href="http://beian.miit.gov.cn/"><img class="icp-icon" src="https://npm.elemecdn.com/nanshen@latest/img/icp.webp"><span>备案号：浙ICP备2024117132号</span></a></p>
   copyright: false # Copyright of theme and framework
 
 # aside (側邊欄)
